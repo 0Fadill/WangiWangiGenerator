@@ -1,10 +1,14 @@
+#This is the english version
+
+#edit these stuff to change the copypasta
 name = "ASTOLFO" #Name of the character
 name1 = "ASTOOLFO" #other variations of it
 name3 = "ASTOOOLFOOO"
 name4 = "ASTOOOLFOOOOOOOOOO"
 special = "she has a dick?" #special description of character 
 
-thecursedtexts = '''{0}........... {1} {2} {3} AAAAAAAAA :heart: :heart: :heart: :heart: SO GOOD SOOO GOOOD YOU SMELL SOO GOOD HU HA HU HA HU HA, aaah~ your smell ASTOLFO its so sweet, i like to smell your sweet fragrance {0} AAAAAAAAH ~ ~  Your hair~.... aaah i want to rub your hair betweeen my fingers  ~ ~ ~ ~ ~ AAAAAH {0} YOURE SO SWEET MY GOD :heart: :heart: :heart: EVERYTIME YOU WEAR YOUR STOCKING YOU LOOK SO CUTE AAAAAAAAH {0} YOURE SOO CUTE............ I WILL BURN 12K DOLLARS JUST FOR {0} AAAAAAAAAAAAAAAAAAAAAAAAAAAAAGH
+
+thecursedtexts = '''{0}........... {1} {2} {3} AAAAAAAAA :heart: :heart: :heart: :heart: SO GOOD SOOO GOOOD YOU SMELL SOO GOOD HU HA HU HA HU HA, aaah~ your smell {0} its so sweet, i like to smell your sweet fragrance {0} AAAAAAAAH ~ ~  Your hair~.... aaah i want to rub your hair betweeen my fingers  ~ ~ ~ ~ ~ AAAAAH {0} YOURE SO SWEET MY GOD :heart: :heart: :heart: EVERYTIME YOU WEAR YOUR STOCKING YOU LOOK SO CUTE AAAAAAAAH {0} YOURE SOO CUTE............ I WILL BURN 12K DOLLARS JUST FOR {0} AAAAAAAAAAAAAAAAAAAAAAAAAAAAAGH
 
 what? {0} is not real? {4} just a fake 2d character you say? No, nonononononononono NOO I DONT TRUST YOU SHE IS REAL NOOO YOU FUCK!! I DONT FUCKING CARE ABOUT REALITY, I DONT FUCKING CARE.
 
